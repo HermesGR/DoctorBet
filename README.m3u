@@ -4,10 +4,10 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](T) Schwartzman D.	vs	Mayer F. Tip = 2 (odd 3.25)[/COLOR]
+#EXTINF:1, [COLOR blue](T)Schwartzman D.vsMayer F. Tip=2(odd 3.25)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S) Sonderjyske	-	Helsingor Tip = 1 (odd 1.55)[/COLOR]
+#EXTINF:1, [COLOR blue](S)Sonderjyske-Helsingor Tip=1 (odd 1.55)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
 
