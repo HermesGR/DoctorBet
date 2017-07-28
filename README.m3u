@@ -1,10 +1,10 @@
 
 #EXTM3U
 
-#EXTINF:1, [B][COLOR red]Doctor Bet Tips[/B][/COLOR]
+#EXTINF:1, [B][COLOR red]Doctor Bet Tip of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue]- - - - - - - [/COLOR]
+#EXTINF:1, [COLOR blue](T) Schwartzman D.	vs	Mayer F. Tip = 2 (odd 3.25)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
 
