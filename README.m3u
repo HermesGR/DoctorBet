@@ -4,11 +4,11 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](T)D.GOFFIN vs G.MONFILS = 1 (Odd 2.25)[/COLOR]
+#EXTINF:1, [COLOR blue](T)K.ANDERSON vs P.CARRENO BUSTA = 2 (Odd 3.00)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](T)L.POUILLE vs D.SCHWARTZMAN = 2 (Odd 2.10)[/COLOR]
+#EXTINF:1, [COLOR blue](S)FC AUGSBURG vs FC KOLN = 1 (Odd 2.35)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](T)D.SHAPOVALOV vs P.CARRENO BUSTA = 2 (Odd 2.10)[/COLOR]
+#EXTINF:1, [COLOR blue](B)FINLAND vs ITALY = 1 (Odd 2.45)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
