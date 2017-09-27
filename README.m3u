@@ -4,7 +4,10 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue]- - - - -[/COLOR]
+#EXTINF:1, [COLOR blue](S) Paris SG - Bayern Munich = X (Draw) (Odd 3.90)[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [COLOR blue](T) D.Chibulkova - C.Garcia = 1 (Odd 1.90)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
 
