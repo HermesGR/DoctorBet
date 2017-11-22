@@ -4,6 +4,11 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)[/COLOR]
+#EXTINF:1, [COLOR blue](S)CSKA Moscow vs Benfica = 1 (Odd 2.10)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
+#EXTINF:1, [COLOR blue](S)Sporting vs Olympiakos = G/G (Odd 1.95)[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [COLOR blue](S)Basel vs Manchester United = G/G (Odd 1.85)[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
