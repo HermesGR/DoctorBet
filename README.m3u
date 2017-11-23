@@ -4,11 +4,17 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)CSKA Moscow vs Benfica = 1 (Odd 2.10)[/COLOR]
+#EXTINF:1, [COLOR blue](S)Locomotiv Moscow vs FC Copenhagen = 1 (Odd 1.90)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)Sporting vs Olympiakos = G/G (Odd 1.95)[/COLOR]
+#EXTINF:1, [COLOR blue](S)Sheriff Tiraspol vs Zlin = 1 (Odd 1.75)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S)Basel vs Manchester United = G/G (Odd 1.85)[/COLOR]
+#EXTINF:1, [COLOR blue](S)Rosenborg vs Real Sociedad = X (Odd 3.85)[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [COLOR blue](S)Braga vs Hoffenheim = 1 (Odd 3.00)[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [COLOR blue](B)Olympia Milano vs Olympiakos = 1 (Odd 2.75)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
