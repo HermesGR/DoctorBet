@@ -4,14 +4,5 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S) West Ham vs Leicester = 1 (Odd 2.80)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, [COLOR blue](S) Hannover vs VfB Stuttgart  = X (Odd 3.30)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, [COLOR blue](S) Brest vs Sochaux = 2 (Odd 3.75)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, [COLOR blue](B) Panathinaikos vs Real Madrid = Over 164,5 (Odd 2.25)[/COLOR]
+#EXTINF:1, [COLOR blue]( ) ------------- = ------- (Odd ---)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
