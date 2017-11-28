@@ -7,14 +7,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=
 #EXTINF:1, [COLOR blue](S-ENGLAND) West Brom vs Newcastle Utd = 1 (Odd 2.40)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S-GERMANY) SC Freibugr vs FCV Maintz 05 = 1 (Odd 2.40)[/COLOR]
+#EXTINF:1, [COLOR blue](S-SCOTLAND) St. Mirren vs Livingston = Over 2.5 Goals (Odd 1.80)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S-GERMANY) RB Leipzig vs SV Werder Bremen = 1 (Odd 1.45)[/COLOR]
+#EXTINF:1, [COLOR blue](S-FRANCE) Bordeaux vs St Etienne = 1 (Odd 1.85)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S-RUSSIA) Akhmat Grozny vs Ufa = 1 (Odd 1.85)[/COLOR]
+#EXTINF:1, [COLOR blue](S-ENGLAND) Derby vs Ipswich = 1 (Odd 1.70)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S-SPAIN) Cadiz CF vs Valladolid = 1 (Odd 2.45)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
+
