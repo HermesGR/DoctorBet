@@ -4,14 +4,6 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S-ENGLAND) Evertos vs Huddersfield = 1 (Odd 1.90)[/COLOR]
+#EXTINF:1, [COLOR blue] Coming Soon ... [/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue](S-FRANCE) Troyes vs Guingamp = 1 (Odd 2.60)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, [COLOR blue](S-GREECE) Xanthi FC vs Paok = 2 (Odd 1.72)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
-
-#EXTINF:1, [COLOR blue](B-GREECE) Promitheus vs Aris = Over 144,5 (Odd 1.85)[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=
