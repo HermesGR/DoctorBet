@@ -4,7 +4,7 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue] (S)ΑΝΤΑΛΙΑΣΠΟΡ - ΜΑΛΑΤΙΑ ΣΠΟΡ = UNDER 2,5 GOALS (1,70)[/COLOR]
+#EXTINF:1, [COLOR blue] (S)ΚΑΡΑΜΠΟΚ- ΑΛΑΝΙΑ ΣΠΟΡ = UNDER 2,5 GOALS (1,70)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
 #EXTINF:1, [COLOR blue] (B)ΚΟΛΟΣΣΟΣ ΡΟΔΟΥ - ΠΑΝΙΩΝΙΟΣ = 2(H+7,5) (1,75)[/COLOR]
