@@ -4,11 +4,11 @@
 #EXTINF:1, [B][COLOR red]Doctor Bet Double Ticket of The Day[/B][/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue] (S)ΚΑΡΑΜΠΟΚ- ΑΛΑΝΙΑ ΣΠΟΡ = UNDER 2,5 GOALS (1,70)[/COLOR]
+#EXTINF:1, [COLOR blue] (S)ΟΛΥΜΠΙΑΚΟΣ- ΑΕΚ= 1 (1,70)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue] (B)ΚΟΛΟΣΣΟΣ ΡΟΔΟΥ - ΠΑΝΙΩΝΙΟΣ = 2(H+7,5) (1,75)[/COLOR]
+#EXTINF:1, [COLOR blue] (S)Ζ.ΒΑΡΕΓΚΕΜ - ΟΣΤΑΝΔΗ = OVER 2,5 (1,55)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
 
-#EXTINF:1, [COLOR blue] (S)ΓΟΥΕΣΤ ΜΠΡΟΜ - ΣΑΟΥΘΑΜΠΤΟΝ = 1Χ(Δ.ΕΥΚ) (1,35)[/COLOR]
+#EXTINF:1, [COLOR blue] (S)ΣΠ.ΡΟΤΕΡΝΤΑΜ - ΒΙΛΕΜ = 1 (2.25)[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=
